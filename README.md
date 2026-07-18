@@ -6,7 +6,7 @@ A deep learning image classifier that identifies plant diseases from leaf photos
 
 Upload a leaf image and the model predicts the disease (or healthy status) across 38 classes spanning 14 crop species (Apple, Corn, Grape, Tomato, Potato, and more).
 
-**Live app:** _[add your Streamlit Cloud link here after deployment]_
+**Live app:**(https://plant-disease-classifier-wljcwr6m2opgy9lzh6dysf.streamlit.app/)
 
 ## Overview
 
